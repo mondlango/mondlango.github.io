@@ -203,3 +203,5 @@ Pasiva voco: La muso esan manjata de la kato.
 Aska voco: Cu la kato manjan la muso?
 
 Source: http://www.heyafu.org/mondlango/gramatiko.htm
+
+http://www.heyafu.org/cina/gramatiko.htm ay http://www.heyafu.org/english/grammar.htm aspektan mor nova.

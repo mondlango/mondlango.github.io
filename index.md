@@ -8,5 +8,6 @@ layout: home
 #### La tero esan un biga vilajo, ay ciu humo esan jia vilajano.
 
 ![tero](Earth_Moon_resize_md.jpg)
+Source: https://commons.wikimedia.org/wiki/File:Earthrise_Revisited_2013.jpg
 
 
