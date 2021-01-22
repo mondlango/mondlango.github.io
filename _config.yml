@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Mondlango 世界大同语
+title: Mondlango 世界大同语 Monda lango
 description: >- # this means to ignore newlines until "baseurl:"
   Monda lango is the common possession of the whole human race, therefore the author of Monda lango (Heyafu...) has resigned all copyrights to Monda lango. Anyone is permitted to copy any of the contents in this website freely.
 baseurl: "" # the subpath of your site, e.g. /blog
