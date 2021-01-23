@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Vocabulary
+title: Vocabulary 词汇 Wordaro
 permalink: /vocabulary/
 menu: true
 ---

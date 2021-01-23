@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Grammar
+title: Grammar 语法重点 Gramatiko
 permalink: /grammar/
 menu: true
 ---
 
-[Grammar in Mondlango](mondlango)
+[In Mondlango](mondlango)
