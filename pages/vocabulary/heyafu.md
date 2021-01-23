@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Chinese 中文
-permalink: /chinese/
+title: Heyafu vocabulary
+permalink: /vocabulary/heyafu/
 ---
 
 |	大同语	|	汉语	|	英语	|

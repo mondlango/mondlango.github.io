@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Mondlango 世界大同语
-permalink: /mondlango/
+title: Grammar in Mondlango
+permalink: /grammar/mondlango/
 ---
 
 ## Gramatiko de Mondlango 

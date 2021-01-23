@@ -1,7 +1,7 @@
 ---
 layout: page
-title: English 英语
-permalink: /english/
+title: Lyn vocabulary
+permalink: /vocabulary/lyn/
 ---
 
 |	Mondlango	|	English	|
