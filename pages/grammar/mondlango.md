@@ -4,9 +4,9 @@ title: Grammar in Mondlango
 permalink: /grammar/mondlango/
 ---
 
-## Gramatiko de Mondlango 
+# Gramatiko de Mondlango 
 
-### La Artikolo
+## La Artikolo
 
 Esan nur un artikolo en Mondlango - la definitiva artikolo: "la".
 
@@ -20,7 +20,7 @@ Egzample: Donez la libro al mi.
 
 Donez un libro al mi. 
 
-### Nomos
+## Nomos
 
 En Mondlango, nomos en singlo finisan per - o. Egzample:  libro ,domo.
 
@@ -40,7 +40,7 @@ Nomos povan funktan kiel:
 
 En Mondlango, most nomoradikos esan nutrala. 
 
-### Verbos
+## Verbos
 
 Verbos en infinitivo finisan per -i: iri , vidi.
 
@@ -67,7 +67,7 @@ La pasinteca pasiva participo finisan per -ita: Libro legita  .
 
 La futura pasiva participo finisan  per -ota:  Libro legota.
 
-### Adjektivos
+## Adjektivos
 
 Adjektivos finisan per -a:  guda; biga .
 
@@ -77,7 +77,7 @@ Oni raytan ubizi adjektivos antaw or  pos  la  nomo  kiu ju kwalifan.  Egzample:
 
 Komparativo:  Adjektivos  forman  sia komparativos ay superativos  putante  "mor"  ay  "most" antaw  la positivo:  mor alta ;  most alta .
 
-### Adverbos
+## Adverbos
 
 Adverbos indikan manero en kiu akto esan  farita.  En Mondlango, adverbos  mostmulte derivisan de adjektivos, canjante la fino al -e.  Egzample: guda --gude ; vera -- vere .
 
@@ -87,7 +87,7 @@ Kiel yi faran?
 
 Bone, dankan yi! 
 
-#### Korelativa Adverbos
+### Korelativa Adverbos
 
 | Ial | Iel | Iam | Ie | Iom |
 | Kial | Kiel | Kiam | Kie | Kiom |
@@ -95,9 +95,9 @@ Bone, dankan yi!
 | Cial | Ciel | Ciam | Cie | Ciom |
 | Nial | Niel | Niam | Nie | Niom |
 
-### Pronomos
+## Pronomos
 
-#### Persona pronomos
+### Persona pronomos
 
 | mi | yi | hi | xi | ji | li |
 | mu | yu | hu | xu | ju | lu |
@@ -118,7 +118,7 @@ If necese, persona pronomos prenan la akuzativa kazo,
 per aldonado de la fino -m al la pronomos. 
 Egzample, hi -- him ; mi -- mim .
 
-#### Korelativa Pronomos
+### Korelativa Pronomos
 
 | Io | Iu | Ia | Ius |
 | Kio | Kiu | Kia | Kius |
@@ -126,7 +126,7 @@ Egzample, hi -- him ; mi -- mim .
 | Cio | Ciu | Cia | Cius |
 | Nio | Niu | Nia | Nius |
 
-### Prepos
+## Prepos
 
 Al   En   Sur   Super   Pre
 
@@ -144,7 +144,7 @@ Konter Da   Insted   Law   Spite
 
 Versus  Ep   Dawn
 
-### Konjunktos
+## Konjunktos
 
 Ay     Or   Car   Dum   If
 
@@ -152,7 +152,7 @@ Ke   Kwankam   Kwaz   nek...nor
 
 ne nur...sed anke   Sed   Tamen   Til
 
-### Kardinala  Nombros
+## Kardinala  Nombros
 
 |	Araba	|	Mondlango	|
 |	---------	|	---------	|
@@ -190,7 +190,7 @@ ne nur...sed anke   Sed   Tamen   Til
 
 Ordinala nombros esan formata  per aldono de la fino -u al la kardinala  nombros:  unu; biu ; triu .
 
-### Sintakso
+## Sintakso
 
 En Mondlango la baza wordordo esan:
 
@@ -202,6 +202,8 @@ Pasiva voco: La muso esan manjata de la kato.
 
 Aska voco: Cu la kato manjan la muso?
 
-Source: http://www.heyafu.org/mondlango/gramatiko.htm
+---
 
-http://www.heyafu.org/cina/gramatiko.htm ay http://www.heyafu.org/english/grammar.htm aspektan mor nova.
+Fonto: http://www.heyafu.org/mondlango/gramatiko.htm
+
+Remarko: http://www.heyafu.org/cina/gramatiko.htm ay http://www.heyafu.org/english/grammar.htm aspektan mor nova.
