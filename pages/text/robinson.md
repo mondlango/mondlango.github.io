@@ -20,7 +20,7 @@ Mia patro esin Germana, sed hi irin vivi ay worki en Englo.
 
 Soon after that, he married my mother, who was English.\
 此后不久，他与我的英语母亲结婚。\
-Balde pos tio, hi wedin kum mia matro, kiu esin Engla.
+Balde pos tio, hi wedin mia matro, kiu esin Engla.
 
 Her family name was Robinson, so, when I was born, they called me Robinson, after her.\
 她的姓氏是鲁滨逊，所以，当我出生时，他们在她之后叫我鲁滨逊。\
