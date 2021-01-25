@@ -8,7 +8,7 @@ permalink: /text/robinson/
 
 Before I begin my story, I would like to tell you a little about myself.\
 在开始我的故事之前，我想向您介绍一下我自己。\
-Antaw mi startan mia rakonto, mi deziran diri al yi iom pri miself.
+Antaw mi startan mia rakonto, mi deziran diri al yu iom pri miself.
 
 I was born in the year 1632, in the city of York in the north of England.\
 我于1632年出生在英格兰北部的约克市。\
