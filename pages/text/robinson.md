@@ -12,7 +12,7 @@ Antaw mi startan mia rakonto, mi deziran diri al yu iom pri miself.
 
 I was born in the year 1632, in the city of York in the north of England.\
 我于1632年出生在英格兰北部的约克市。\
-Mi naskisis en la yero 1632 (mil-siks-cent-tridek-bi), en urbo Yorko en la Nordo de Englo.
+Mi naskisin en la yero 1632 (mil-siks-cent-tridek-bi), en urbo Yorko en la Nordo de Englo.
 
 My father was German, but he came to live and work in England.\
 我父亲是德国人，但他来英国生活和工作。\
